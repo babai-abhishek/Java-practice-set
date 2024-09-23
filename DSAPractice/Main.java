@@ -1,6 +1,6 @@
-package gfg;
+package DSAPractice;
 
-import gfg.string.Solution;
+import DSAPractice.string.Solution;
 
 public class Main {
 

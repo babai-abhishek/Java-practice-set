@@ -1,4 +1,4 @@
-package gfg.string;
+package DSAPractice.string;
 
 import java.util.*;
 import java.util.regex.Matcher;

@@ -1,4 +1,4 @@
-package gfg.ds;
+package DSAPractice.ds;
 
 public class DemoQueue {
 

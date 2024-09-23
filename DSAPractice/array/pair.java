@@ -1,4 +1,4 @@
-package gfg.array;
+package DSAPractice.array;
 
 public class pair {
 
