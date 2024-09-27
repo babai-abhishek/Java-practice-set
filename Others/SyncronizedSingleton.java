@@ -1,4 +1,4 @@
-package J8;
+package Others;
 
 /*
 * public class Singleton {
